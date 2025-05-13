@@ -53,7 +53,6 @@ Karmaşık yapılardan uzak, sade ve kullanıcı dostu arayüzüyle sadece işin
 
 - 🔔 Bildirim sistemi eklemek
 - 🌙 Karanlık mod desteği
-- 💾 Notları dosya sistemine veya veritabanına kalıcı olarak kaydetme
 - 🌐 Çoklu dil desteği
 - 📱 Mobil platformlara uyarlama
 
