@@ -71,7 +71,7 @@ Karmaşık yapılardan uzak, sade ve kullanıcı dostu arayüzüyle sadece işin
 
 ---
 ## 🛠️ Kurulum
-<img src="[./download.gif](https://raw.githubusercontent.com/tahatoprak0/AjandamApp/refs/heads/main/images/Ads%C4%B1ztasar%C4%B1m.gif)" width="50%" height="50%"/>
+<img src="images/kurulum.gif" width="50%" height="50%"/>
 
 
   
