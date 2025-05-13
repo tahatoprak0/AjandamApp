@@ -72,9 +72,7 @@ Karmaşık yapılardan uzak, sade ve kullanıcı dostu arayüzüyle sadece işin
 ---
 ## 🛠️ Kurulum
 -Setup.rar dosyasını indir ve videodaki işlemleri yap.
+
 <img src="images/kurulum.gif" width="50%" height="50%"/>
-
-
-  
 
 ---
